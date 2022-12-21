@@ -14,7 +14,7 @@ DB 연동은 따로 DBManager를 이용하여 DB에 접근한다.
 
 추가로 할 일  
 - build.gradle -> "implementation 'org.springframework.boot:spring-boot-starter-jdbc'" 주석 풀기
-- resources/templates/apllication.properties에 밑의 내용 찾아서 채워 넣을 것
+- resources/templates/apllication.properties에 밑의 내용 찾아서 채워 넣을 것  
 spring.datasource.url=  
 spring.datasource.username=  
 spring.datasource.password=  
